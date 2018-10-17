@@ -1,1 +1,3 @@
 hola
+git remote add subidos https://github.com/Milton145/respaldo.git
+git push -u subidos master
